@@ -1,0 +1,14 @@
+{
+    "name": "sesion5-integracion-continua",
+    "version": "1.0.0",
+    "description": "Package para el ejercicio 5 del Curso de Github de Cefire de integración continua con Travis",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Javier",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^27.0.6"
+    }
+}
