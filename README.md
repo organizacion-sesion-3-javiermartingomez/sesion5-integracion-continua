@@ -2,7 +2,6 @@
 
 Pequeña función que comprueba si un número es par.
 
-# Aclaración
+# GitHub Actions
 
-Se debe ejecutar "npm install" para instalar las dependencias del proyecto node.
-Yo lo subo sin el "node_modules" para que no ocupe tanto.
+El log del test del GitHub Actions se encuentra en el .zip "logs_1"
